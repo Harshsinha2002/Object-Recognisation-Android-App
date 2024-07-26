@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "212841877720",
+    "project_id": "common-testing-for-apps",
+    "storage_bucket": "common-testing-for-apps.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:212841877720:android:3f68882e3d894587d7c7ad",
+        "android_client_info": {
+          "package_name": "com.example.objectrecognisationapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUwbRwNeq_RU6IrmKOskbcgP8ZqNcx5tU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:212841877720:android:42899d770e0fd926d7c7ad",
+        "android_client_info": {
+          "package_name": "com.example.upload_and_retrieve_images_to_firestore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUwbRwNeq_RU6IrmKOskbcgP8ZqNcx5tU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
